@@ -20,8 +20,8 @@ I am a Postdoctoral Researcher at Shanghai Institute for Mathematics and Interdi
 My research interests lie in algebraic number theory, group theory, and arithmetic geometry. I am particularly interested in employing group-theoretic and cohomological techniques to address number-theoretic problems, with an emphasis on understanding the structure of Galois groups of global fields with restricted ramification.
 
 ## Publications and preprints
-* Remarks on the Boston Unramified Fontaine-Mazur Conjecture, II. <br> [https://arxiv.org/abs/2601.20395](https://arxiv.org/abs/2601.20395)(2026). 
-* On the second partial Global Euler-Poincaré characteristics for Galois cohomology. <br> [https://arxiv.org/abs/2509.03218](https://arxiv.org/abs/2509.03218) (2025). 
+* Remarks on the Boston Unramified Fontaine-Mazur Conjecture, II. <br>  [https://arxiv.org/abs/2601.20395](https://arxiv.org/abs/2601.20395)(2026). Submitted for publication. 
+* On the second partial Global Euler-Poincaré characteristics for Galois cohomology. <br> [https://arxiv.org/abs/2509.03218](https://arxiv.org/abs/2509.03218) (2025). Submitted for publication.
 * Geometrization of $p$-adic characters of $\mathbb{Z}_{p}$. <br> To appear in *Annales mathématiques du Québec*. (2026). 
 * [The topological Tits alternative for linear groups over commutative profinite rings](https://www.tandfonline.com/doi/full/10.1080/00927872.2025.2608664). <br> *Communications in Algebra*. (2026) Online.
 * [Remarks on the Boston's Unramified Fontaine-Mazur Conjecture](https://www.sciencedirect.com/science/article/abs/pii/S0022314X2500280X). <br> *Journal of Number Theory*. Volume 281, (2026): 96-109.
