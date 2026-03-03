@@ -24,13 +24,13 @@ My research interests lie in algebraic number theory, group theory, and arithmet
 * Counterexamples to a conjecture of Tsfasman and Vladut. <br> Submitted for publication.
 * Remarks on the Boston Unramified Fontaine-Mazur Conjecture, II. <br>  [https://arxiv.org/abs/2601.20395](https://arxiv.org/abs/2601.20395)(2026). Submitted for publication. 
 * On the second partial Global Euler-Poincaré characteristics for Galois cohomology. <br> [https://arxiv.org/abs/2509.03218](https://arxiv.org/abs/2509.03218) (2025). Submitted for publication.
-* Geometrization of $p$-adic characters of \(\mathbb{Z}_{p}\). <br> To appear in *Annales mathématiques du Québec*. (2026). 
+* Geometrization of $p$-adic characters of $\mathbb{Z}_{p}$. <br> To appear in *Annales mathématiques du Québec*. (2026). 
 * [The topological Tits alternative for linear groups over commutative profinite rings](https://www.tandfonline.com/doi/full/10.1080/00927872.2025.2608664). <br> *Communications in Algebra*. (2026) Published online.
 * [Remarks on the Boston's Unramified Fontaine-Mazur Conjecture](https://www.sciencedirect.com/science/article/abs/pii/S0022314X2500280X). <br> *Journal of Number Theory*. Volume 281, (2026): 96-109.
 * [Some cases of the unramified Fontaine–Mazur conjecture](https://www.worldscientific.com/doi/10.1142/S1793042125500514). <br> *International Journal of Number Theory 21*, no. 05 (2025): 1017-1027.
 *  A characteristic-$ p $-valued version of Sheaves-function dictionary of Deligne. <br> Submitted for publication.
 * A short note on lifting mod $p$ representations of arithmetic fundamental groups over finite fields of characteristic $p$. <br> Submitted for publication.
-* Hodge-type decomposition for de Rham cohomology of \(p\)-adically uniformized varieties. <br> [https://arxiv.org/abs/1811.01153](https://arxiv.org/abs/1811.01153) (2018).
+* Hodge-type decomposition for de Rham cohomology of $p$-adically uniformized varieties. <br> [https://arxiv.org/abs/1811.01153](https://arxiv.org/abs/1811.01153) (2018).
 
 ## Teaching
 * Spring 2026, Galois cohomology of number fields, SIMIS
