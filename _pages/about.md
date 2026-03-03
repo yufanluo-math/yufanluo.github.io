@@ -26,7 +26,7 @@ My research interests lie in algebraic number theory, group theory, and arithmet
 * [The topological Tits alternative for linear groups over commutative profinite rings](https://www.tandfonline.com/doi/full/10.1080/00927872.2025.2608664). <br> *Communications in Algebra*. (2026) Published online.
 * [Remarks on the Boston's Unramified Fontaine-Mazur Conjecture](https://www.sciencedirect.com/science/article/abs/pii/S0022314X2500280X). <br> *Journal of Number Theory*. Volume 281, (2026): 96-109.
 * [Some cases of the unramified Fontaine–Mazur conjecture](https://www.worldscientific.com/doi/10.1142/S1793042125500514). <br> *International Journal of Number Theory 21*, no. 05 (2025): 1017-1027.
-* Hodge-type decomposition for de Rham cohomology of $p$-adically uniformized varieties. <br> [https://arxiv.org/abs/1811.01153](https://arxiv.org/abs/1811.01153). (2018)
+* Hodge-type decomposition for de Rham cohomology of $p$-adically uniformized varieties. <br> [https://arxiv.org/abs/1811.01153](https://arxiv.org/abs/1811.01153) (2018).
 
 ## Teaching
 * Spring 2026, Galois cohomology of number fields, SIMIS
