@@ -2,6 +2,7 @@
 permalink: /
 title: "Yufan Luo's Homepage"
 author_profile: false
+mathjax: true
 redirect_from: 
   - /about/
   - /about.html
