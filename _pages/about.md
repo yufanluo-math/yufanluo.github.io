@@ -14,7 +14,9 @@ redirect_from:
 <div style="text-align:center;">
 <img src="/assets/phone.jpg" width="200">
 
+<p style="text-align:center; font-style:italic;">
 I know that I know nothing.
+</p>
 </div>
 
 
