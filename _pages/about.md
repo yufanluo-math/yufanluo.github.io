@@ -7,9 +7,16 @@ redirect_from:
   - /about/
   - /about.html
 ---
+
+  
 ## Yufan Luo（骆禹帆）
+
+<div style="text-align:center;">
 <img src="/assets/phone.jpg" width="200">
-<p align="center">I know that I know nothing.</p>
+
+I know that I know nothing.
+</div>
+
 
 ## About me
 I am a Postdoctoral Researcher at Shanghai Institute for Mathematics and Interdisciplinary Sciences (SIMIS), working with [Prof. Chung Pang Mok（莫仲鹏）](https://www.simis.cn/chung-pang-mok/). I obtained my Ph.D. in Natural Sciences at Humboldt-Universität zu Berlin in 2023, under the supervision of [Prof. Dr. Elmar Große-Klönne](https://www.mathematik.hu-berlin.de/de/forschung/forschungsgebiete/arithmetische-geometrie-und-zahlentheorie/grosse-kloenne). Before that, I was a graduate student under the supervision of [Prof. Bingyong Xie（谢兵永）](https://math.ecnu.edu.cn/~byxie/intro_c.html?language=1&id=165).
