@@ -49,6 +49,6 @@ My research interests lie in algebraic number theory, group theory, and arithmet
 * Spring 2025, Profinite group theory, SIMIS
 
 
-
+<script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
 
 
