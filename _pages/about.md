@@ -32,7 +32,8 @@ My research interests lie in algebraic number theory, group theory, and arithmet
 
 
 ## Publications and preprints
-1. On the Finiteness of Geometric Representations for Varieties over Finite Fields. <br> [
+1. On the bounded-conductor finiteness conjecture in equal characteristic. (With Yiqi Xu)
+2. On the Finiteness of Geometric Representations for Varieties over Finite Fields. <br> [
 http://arxiv.org/abs/2606.31341](
 http://arxiv.org/abs/2606.31341) (2026). Submitted for publication.
 3. Remarks on the Boston Unramified Fontaine-Mazur Conjecture, II. <br>  [https://arxiv.org/abs/2601.20395](https://arxiv.org/abs/2601.20395)(2026). Submitted for publication.
